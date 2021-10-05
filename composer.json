@@ -1,5 +1,5 @@
 {
-    "name": "captcha-com/laravel-captcha",
+    "name": "ad31m0/laravel-captcha",
     "description": "Laravel Captcha Package -- BotDetect PHP CAPTCHA generator integration for the Laravel framework.",
     "keywords": ["laravel captcha package", "laravel captcha", "captcha package", "captcha", "captcha generator", "botdetect"],
     "homepage": "https://captcha.com/doc/php/laravel-captcha-quickstart.html",
@@ -17,7 +17,7 @@
         "source": "https://captcha.com/doc/php/laravel-captcha-quickstart.html"
     },
     "require": {
-        "captcha-com/captcha": "4.*",
+        "ad31m0/captcha": "4.*",
         "php": ">=5.4.0"
     },
     "autoload": {
